@@ -4,7 +4,7 @@
 			"name": "Antares Pichincha",
 			"place_id": "ChIJOR29Pk-rt5UR0hsdFVQWpD8",
 			"logo_src": "antares",
-			"lat": -32.93644800000001,
+			"lat": -32.936448,
 			"lng": -60.658711
 		},
 		{
@@ -12,7 +12,7 @@
 			"place_id": "ChIJi1BScw-rt5URT3HxQqBdYVQ",
 			"logo_src": "antares",
 			"lat": -32.9572428,
-			"lng": -60.64165389999999
+			"lng": -60.6416538
 		},
 		{
 			"name": "Bar del Mundo",
@@ -39,15 +39,15 @@
 			"name": "Baum",
 			"place_id": "ChIJY0JF8w6rt5URz8OnZIaWb0M",
 			"logo_src": "baum",
-			"lat": -32.95779149999999,
+			"lat": -32.9577914,
 			"lng": -60.6444332
 		},
 		{
 			"name": "Beatmemo",
 			"place_id": "ChIJJb6fNDart5URnygedPZlxCM",
 			"logo_src": "beatmemo",
-			"lat":
-			"lng":
+			"lat": -32.9332467,
+			"lng": -60.6505625
 		},
 		{
 			"name": "Cadencia",
@@ -60,8 +60,8 @@
 			"name": "Cervario",
 			"place_id": "ChIJF8YWLUyrt5URM_OtSDA4cPM",
 			"logo_src": "cervario",
-			"lat": -32.93274360000001,
-			"lng": -60.66033580000001
+			"lat": -32.9327436,
+			"lng": -60.6603358
 		},
 		{
 			"name": "Collins Francia",
@@ -75,7 +75,7 @@
 			"place_id": "ChIJO0UBiw2rt5UR4rtapqbILfs",
 			"logo_src": "collins",
 			"lat": -32.955898,
-			"lng": -60.64754199999999
+			"lng": -60.647541
 		},
 		{
 			"name": "Daniel O.",
@@ -88,7 +88,7 @@
 			"name": "Fenicia",
 			"place_id": "ChIJu2ac-FGrt5UR2qaAVLh9P_U",
 			"logo_src": "fenicia",
-			"lat": -32.93419400000001,
+			"lat": -32.934194,
 			"lng": -60.663836
 		},
 		{
@@ -103,7 +103,7 @@
 			"place_id": "ChIJAf2yog2rt5URHCyC2zngbIQ",
 			"logo_src": "mandino",
 			"lat": -32.9572029,
-			"lng": -60.64811520000001
+			"lng": -60.6481152
 		},	
 		{
 			"name": "O´Connell´s Paraguay",
@@ -117,7 +117,7 @@
 			"place_id": "ChIJBVpBHEirt5URnFJYK1tNN2A",
 			"logo_src": "oconnells",
 			"lat": -32.935458,
-			"lng": -60.65186199999999
+			"lng": -60.651861
 		},
 		{	
 			"name": "O´Connell´s Puerto Norte",
@@ -137,22 +137,22 @@
 			"name": "O´Connell´s Shopping del Siglo",
 			"place_id": "ChIJwb0Rtz-rt5URgVgIeTSD2c8",
 			"logo_src": "oconnells",
-			"lat": -32.94442519999999,
-			"lng": -60.64943830000001
+			"lat": -32.9444251,
+			"lng": -60.6494383
 		},
 		{
 			"name": "Old Traford",
 			"place_id": "ChIJIbECrQGrt5URf1xxosDGPb4",
 			"logo_src": "oldtraford",
-			"lat": -32.95902999999999,
-			"lng": -60.63086389999999
+			"lat": -32.9590299,
+			"lng": -60.6308638
 		},
 		{
 			"name": "Rato",
 			"place_id": "ChIJORlLwEert5UR7IEda7wlqWM",
 			"logo_src": "rato",
 			"lat": -32.9377495,
-			"lng": -60.65329089999999
+			"lng": -60.6532908
 		},
 		{
 			"name": "Stuttgart",
@@ -166,7 +166,7 @@
 			"place_id": "ChIJo-qF5VGrt5URI-PyWlZomlQ",
 			"logo_src": "zodiako",
 			"lat": -32.954042,
-			"lng": -60.63228100000001
+			"lng": -60.632281
 		}		
 	]
 }
